@@ -1,7 +1,7 @@
 PermissionsConverter
 ====================
 
-Converts file/directory permissions from "drwxr-xr-x" format to "755" format.
+Display permissions string formatted like "drwxr-xr-x" in number format (i.e. 755).
 
 ## Installation
 Run the following command to download the file:
